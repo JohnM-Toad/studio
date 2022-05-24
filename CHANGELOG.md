@@ -4,6 +4,15 @@
 
 [1]: https://www.npmjs.com/package/@zapper-fi/studio?activeTab=versions
 
+## [0.41.0](https://github.com/Zapper-fi/studio/compare/v0.40.0...v0.41.0) (2022-05-24)
+
+
+### Features
+
+* **plutus:** Add Plutus DAO ([#497](https://github.com/Zapper-fi/studio/issues/497)) ([26a0282](https://github.com/Zapper-fi/studio/commit/26a028293520026fabb492f3bf20b4901383c617))
+* **rari-fuse:** Move Rari Fuse to Studio ([#499](https://github.com/Zapper-fi/studio/issues/499)) ([b2096de](https://github.com/Zapper-fi/studio/commit/b2096deb4a8a714c6c9b75f56473fe8cde7572d1))
+* **saddle:** Extract Saddle to Studio, add farms, add chef, add 4pool ([#501](https://github.com/Zapper-fi/studio/issues/501)) ([2acb909](https://github.com/Zapper-fi/studio/commit/2acb9091eeb42399ad98e9d979f0031fc2ffada7))
+
 ## [0.40.0](https://github.com/Zapper-fi/studio/compare/v0.39.1...v0.40.0) (2022-05-22)
 
 
